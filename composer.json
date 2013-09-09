@@ -1,0 +1,11 @@
+{
+	"name": "jildertmiedema/wp-cli-woocommerce",
+	"description": "An extension for WP CLI to support woocommerce",
+	"homepage": "https://github.com/jildertmiedema/wp-cli-woocommerce",
+	"require": {
+		"php": ">=5.4"
+	},
+	"autoload": {
+		"files": [ "src/Woocommerce-Command.php" ]
+	}
+}
